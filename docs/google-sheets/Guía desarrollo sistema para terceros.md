@@ -8,7 +8,7 @@
 4. Definir objetivos (informes)
 5. Definir tablas (Hojas) y Atributos (Columna)
 
-![[tabla formato tipo GSheets.png]]
+![](../adjuntos/tabla-formato-tipo-GSheets.png )
 
 
 ## Construyendo planillas
