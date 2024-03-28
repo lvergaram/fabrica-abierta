@@ -8,7 +8,7 @@
 4. Definir objetivos (informes)
 5. Definir tablas (Hojas) y Atributos (Columna)
 
-![](../adjuntos/tabla-formato-tipo-GSheets.png )
+
 
 
 ## Construyendo planillas
@@ -20,7 +20,10 @@
 4. En la 4ta columna (D) comienzan las tablas
 5. Seleccionar todo el rango de E:Z (o hasta donde se necesite) > ir a formato y Colores Alternos
 6. Personalizar. Se recomienda este estilo
-	   Definir una hoja tipo para las tablas 
+	   Definir una hoja tipo para las tablas
+
+
+![](../adjuntos/tabla-formato-tipo-GSheets.png )
 
 
 
